@@ -1,4 +1,4 @@
-# 一、系统设计面试之前需要知道的八件事
+# 系统设计面试之前需要知道的八件事
 
 > 原文：[Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 
